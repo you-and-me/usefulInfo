@@ -24,7 +24,7 @@ npm install -g weinre
 * boundHost 调试服务器绑定的 IP 地址（或域名），默认 localhost，如果设置为 -all-，表示绑定到所有当前机器可以访问的接口。
    weinre --boundHost -all-
    
-   访问http://192.16.10.164:8080,出现正确的页面，说明安装成功！ 按照页面中的提示，将Target Script中给的地址放到你需要调试的页面中，然后访问debug client。访问后，我们能够看到一个类似于chrome控制台的东西出现了，这时，你就可以调试啦！同时，注意到Targets中标明了现在调用远程Weinre js的页面
+   访问 http://192.16.10.164:8080 ,出现正确的页面，说明安装成功！ 按照页面中的提示，将Target Script中给的地址放到你需要调试的页面中，然后访问debug client。访问后，我们能够看到一个类似于chrome控制台的东西出现了，这时，你就可以调试啦！同时，注意到Targets中标明了现在调用远程Weinre js的页面
    
    
 【PS】1.利用Weinre也能在console里面查看js的变量，这一点非常方便。2.这个时候用Fiddler抓包，我们能看到来自于target、client的请求。
