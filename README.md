@@ -2,7 +2,7 @@
 
 #### 掘金——文主：花裤衩 
           
-          文章链接：[手摸手，带你用Vue撸后台 系列一（基础篇）](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
+文章链接：[手摸手，带你用Vue撸后台 系列一（基础篇）](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
           
 ## api文档生成器
 
